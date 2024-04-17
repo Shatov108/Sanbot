@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Super-Sanbot</string>
+    <string name="angle">angle</string>
+    <string name="kurwa_bobr">Kurwa Bobr</string>
+    <string-array name="side_spinner">
+        <item>Left</item>
+        <item>Right</item>
+    </string-array>
+</resources>
